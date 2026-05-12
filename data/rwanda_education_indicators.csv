@@ -1,0 +1,64 @@
+year,indicator_code,indicator_name,education_level,category,value,unit,source
+2015,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,96.8,percent,Sample World Bank-style education dataset
+2016,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,97.4,percent,Sample World Bank-style education dataset
+2017,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,98.1,percent,Sample World Bank-style education dataset
+2018,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,98.6,percent,Sample World Bank-style education dataset
+2019,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,99.0,percent,Sample World Bank-style education dataset
+2020,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,97.5,percent,Sample World Bank-style education dataset
+2021,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,98.2,percent,Sample World Bank-style education dataset
+2022,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,99.1,percent,Sample World Bank-style education dataset
+2023,SE.PRM.ENRR,Primary school enrollment rate,Primary,Access,99.4,percent,Sample World Bank-style education dataset
+2015,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,38.5,percent,Sample World Bank-style education dataset
+2016,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,40.2,percent,Sample World Bank-style education dataset
+2017,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,42.7,percent,Sample World Bank-style education dataset
+2018,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,45.1,percent,Sample World Bank-style education dataset
+2019,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,47.6,percent,Sample World Bank-style education dataset
+2020,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,46.3,percent,Sample World Bank-style education dataset
+2021,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,48.9,percent,Sample World Bank-style education dataset
+2022,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,51.4,percent,Sample World Bank-style education dataset
+2023,SE.SEC.ENRR,Secondary school enrollment rate,Secondary,Access,53.2,percent,Sample World Bank-style education dataset
+2015,SE.PRM.CMPT,Primary completion rate,Primary,Completion,72.4,percent,Sample World Bank-style education dataset
+2016,SE.PRM.CMPT,Primary completion rate,Primary,Completion,74.1,percent,Sample World Bank-style education dataset
+2017,SE.PRM.CMPT,Primary completion rate,Primary,Completion,76.0,percent,Sample World Bank-style education dataset
+2018,SE.PRM.CMPT,Primary completion rate,Primary,Completion,78.5,percent,Sample World Bank-style education dataset
+2019,SE.PRM.CMPT,Primary completion rate,Primary,Completion,80.3,percent,Sample World Bank-style education dataset
+2020,SE.PRM.CMPT,Primary completion rate,Primary,Completion,78.8,percent,Sample World Bank-style education dataset
+2021,SE.PRM.CMPT,Primary completion rate,Primary,Completion,81.2,percent,Sample World Bank-style education dataset
+2022,SE.PRM.CMPT,Primary completion rate,Primary,Completion,83.0,percent,Sample World Bank-style education dataset
+2023,SE.PRM.CMPT,Primary completion rate,Primary,Completion,84.6,percent,Sample World Bank-style education dataset
+2015,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,28.9,percent,Sample World Bank-style education dataset
+2016,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,30.4,percent,Sample World Bank-style education dataset
+2017,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,32.2,percent,Sample World Bank-style education dataset
+2018,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,34.5,percent,Sample World Bank-style education dataset
+2019,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,36.7,percent,Sample World Bank-style education dataset
+2020,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,35.1,percent,Sample World Bank-style education dataset
+2021,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,37.8,percent,Sample World Bank-style education dataset
+2022,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,40.6,percent,Sample World Bank-style education dataset
+2023,SE.SEC.CMPT,Secondary completion rate,Secondary,Completion,42.3,percent,Sample World Bank-style education dataset
+2015,SE.PRM.GPI,Primary gender parity index,Primary,Equity,0.98,index,Sample World Bank-style education dataset
+2016,SE.PRM.GPI,Primary gender parity index,Primary,Equity,0.99,index,Sample World Bank-style education dataset
+2017,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.00,index,Sample World Bank-style education dataset
+2018,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.01,index,Sample World Bank-style education dataset
+2019,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.01,index,Sample World Bank-style education dataset
+2020,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.00,index,Sample World Bank-style education dataset
+2021,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.01,index,Sample World Bank-style education dataset
+2022,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.02,index,Sample World Bank-style education dataset
+2023,SE.PRM.GPI,Primary gender parity index,Primary,Equity,1.02,index,Sample World Bank-style education dataset
+2015,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.93,index,Sample World Bank-style education dataset
+2016,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.95,index,Sample World Bank-style education dataset
+2017,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.96,index,Sample World Bank-style education dataset
+2018,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.98,index,Sample World Bank-style education dataset
+2019,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.99,index,Sample World Bank-style education dataset
+2020,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,0.98,index,Sample World Bank-style education dataset
+2021,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,1.00,index,Sample World Bank-style education dataset
+2022,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,1.01,index,Sample World Bank-style education dataset
+2023,SE.SEC.GPI,Secondary gender parity index,Secondary,Equity,1.02,index,Sample World Bank-style education dataset
+2015,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,42.5,students_per_teacher,Sample World Bank-style education dataset
+2016,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,41.7,students_per_teacher,Sample World Bank-style education dataset
+2017,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,40.9,students_per_teacher,Sample World Bank-style education dataset
+2018,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,39.6,students_per_teacher,Sample World Bank-style education dataset
+2019,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,38.8,students_per_teacher,Sample World Bank-style education dataset
+2020,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,39.4,students_per_teacher,Sample World Bank-style education dataset
+2021,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,38.1,students_per_teacher,Sample World Bank-style education dataset
+2022,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,37.3,students_per_teacher,Sample World Bank-style education dataset
+2023,SE.PRM.PTR,Primary pupil-teacher ratio,Primary,Quality,36.5,students_per_teacher,Sample World Bank-style education dataset
