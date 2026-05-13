@@ -183,6 +183,30 @@ The project is designed to support visuals such as:
 
 ---
 
+## Key Findings
+
+Based on the sample Rwanda education indicators dataset and generated visualizations, the project highlights the following findings:
+
+1. **Primary enrollment remained consistently high.**  
+   Primary school enrollment stayed close to universal access across the reporting years, showing strong education access at the primary level.
+
+2. **Secondary enrollment improved over time.**  
+   Secondary school enrollment increased gradually from 2015 to 2023, suggesting progress in expanding access beyond primary education.
+
+3. **Completion rates improved, but secondary completion remained lower.**  
+   Primary completion rates were higher than secondary completion rates throughout the period, showing that continued support may be needed to improve secondary-level completion.
+
+4. **Gender parity improved across education levels.**  
+   Both primary and secondary gender parity indicators moved closer to or above parity, suggesting progress in gender equity in education access.
+
+5. **The primary pupil-teacher ratio improved over time.**  
+   The pupil-teacher ratio declined from 2015 to 2023, suggesting improved classroom staffing conditions.
+
+6. **Education indicators support policy and program monitoring.**  
+   These findings show how education data can help identify progress, gaps, and areas where continued investment or program support may be needed.
+
+---
+
 ## How to Use This Project
 
 ### 1. Clone the repository
