@@ -162,6 +162,24 @@ The project is designed to support visuals such as:
 - Gender parity index trends
 - Pupil-teacher ratio trend
 - Average indicator value by category
+- ---
+
+## Sample Visualizations
+
+### Rwanda School Enrollment Trends
+![Rwanda School Enrollment Trends](visuals/enrollment_trends.png)
+
+### Rwanda Completion Rate Trends
+![Rwanda Completion Rate Trends](visuals/completion_rate_trends.png)
+
+### Rwanda Gender Parity Index Trends
+![Rwanda Gender Parity Index Trends](visuals/gender_parity_trends.png)
+
+### Rwanda Primary Pupil-Teacher Ratio Trend
+![Rwanda Primary Pupil-Teacher Ratio Trend](visuals/pupil_teacher_ratio_trend.png)
+
+### Average Education Indicator Value by Category
+![Average Education Indicator Value by Category](visuals/average_indicator_by_category.png)
 
 ---
 
